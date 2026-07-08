@@ -30,13 +30,12 @@ A collection of mini Deep Learning projects implemented in Jupyter Notebooks.
 1. Clone the repository:
    ```bash
    git clone https://github.com/Yugal0708/DL_Mini_Projects.git
-
 2.Navigate to the project:
-
-Bashcd DL_Mini_Projects/deep\ learning
+  ``
+  Bashcd DL_Mini_Projects/deep\ learning ``
 3.Open the notebooks:
 
-Bashjupyter notebook
+``Bashjupyter notebook``
 
 📊 Notebooks Structure (Typical)
 Each notebook generally contains:
